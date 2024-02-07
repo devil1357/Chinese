@@ -4,13 +4,13 @@
 
 应用场景/问题陈述 
 
-Power BI Desktop 报表概览
+- Power BI Desktop 报表概览
 
-  - 任务 1：在实验环境中设置 Power BI Desktop
+    - 任务 1：在实验环境中设置 Power BI Desktop
 
--   任务 2：分析 Power BI Desktop 报表
+    -   任务 2：分析 Power BI Desktop 报表
 
--   任务 3：查看 Power Queries
+    -   任务 3：查看 Power Queries
 
 参考 
 
