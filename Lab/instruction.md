@@ -83,7 +83,7 @@ ADLS Gen2 帐户密钥：**Lpwn8hQASMpe5r4F+VFXAvpnzKF9x9Kjt5GMvMCFWB0xCFuM4fyVw
 14. 选择**工作区默认值**下拉列表。
 15. 选择**新建环境。**
  
-16. “新建环境”对话框随即打开。在名称中输入 **FAIAD_<username>_env**
+16. “新建环境”对话框随即打开。在名称中输入 **FAIAD_\<username>_env**
 
 **注意：** 工作区名称必须唯一。我们使用 FAIAD_demouser_env 作为本文档的工作区名称。但是，您必须使用不同的工作区名称。确保“名称”字段下方显示带有 **“此名称可用”** 的绿色复选标记。
 
