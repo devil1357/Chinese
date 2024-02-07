@@ -2,7 +2,7 @@
 
 简介 
 
-- Power BI [3](#power-bi)](#power-bi)
+- Power BI 
 
     - 任务 1：自动创建报表 
 
