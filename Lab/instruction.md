@@ -112,7 +112,7 @@ ADLS Gen2 帐户密钥：**Lpwn8hQASMpe5r4F+VFXAvpnzKF9x9Kjt5GMvMCFWB0xCFuM4fyVw
 28. 选择 **Spark 设置。**
 29. 从 Spark 设置菜单中，选择选项卡**环境。**
 30. 将**设置默认环境滑块切换到开。**
-31. 选择工作区默认值下拉列表。
+31. 选择**工作区默认值下拉列表。**
 32. 从下拉列表中选择您刚刚创建的环境：**FAIAD_\<username>_env**
 33. 选择**保存。**
  

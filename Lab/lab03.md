@@ -98,7 +98,7 @@ Fabric、Power Platform、Azure
 
 5. 您将导航到"连接到数据源"对话框。您需要创建与 ADLS Gen2
     数据源的连接。在**连接设置 -\> URL** 下，输入链接
-    <https://stvnextblobstorage.dfs.core.windows.net/>fabrikam-sales/Delta-Parquet-Format
+    <https://stvnextblobstorage.dfs.core.windows.net/fabrikam-sales/Delta-Parquet-Format>
 
 6. 从"身份验证种类"下拉列表中选择**帐户密钥**。
 
@@ -381,7 +381,7 @@ Lakehouse 中的地理数据，让我们引入 ADLS Gen2 中的其余数据。
     的以下查询。
 
     a.  Product
-
+    
     b.  Product Groups
 
     c.  Product Item Group
